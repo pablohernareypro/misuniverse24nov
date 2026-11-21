@@ -1,0 +1,10 @@
+{
+  "fecha_inicio": "2026-11-21",
+  "fecha_final": "2026-11-24",
+  "zona_de_referencia": "America/Santo_Domingo",
+  "videos_por_dia": 5,
+  "vistas_minimas_por_video": 100000,
+  "criterio_de_corte": "Antes de la gala internacional del martes 24. La hora exacta del recuento se acuerda con Pablo.",
+  "criterio_de_apoyo": "Que cada candidata tenga apoyo identificable del público en la votación.",
+  "candidatas": ["México", "Bélgica", "Colombia", "Puerto Rico", "Venezuela", "Tailandia", "República Dominicana", "Honduras", "Haití", "Países Bajos"]
+}

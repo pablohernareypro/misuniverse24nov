@@ -11,6 +11,8 @@ Reinado virtual de diez amigas en la cuenta de [Norbey Rodríguez (@norbeyrodrig
 3. Para aprovechar el cuaderno, usa [las consultas de extracción de Víctor Heras](notebooklm/extraer-metodo.md). El archivo que debe devolver el cuaderno se llamará `notebooklm/Cerebro_Heras.md`.
 4. Usa [el registro de publicaciones](seguimiento/publicaciones.csv) y [el recuento por candidata](seguimiento/candidatas.csv). El [diagnóstico de la cuenta](seguimiento/linea-base.md) conserva las cifras con sus fuentes.
 
+Las metas vigentes están también en [objetivos.json](campana/objetivos.json). Para comprobar el calendario, los mínimos por pieza y los enlaces del proyecto, ejecuta `python3 scripts/validar_proyecto.py` desde la raíz.
+
 ## Material para producción
 
 - [Mapa de recursos y skills del proyecto](recursos/catalogo.md).
