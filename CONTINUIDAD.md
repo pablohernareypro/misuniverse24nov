@@ -10,6 +10,7 @@ Abrir [el inventario](produccion/inventario.md) y comprobar qué llegó de las c
 
 | Decisión de Pablo | Implicación para quien retome |
 |---|---|
+| Pablo continúa la campaña en este chat y pide guardar cada avance en GitHub a medida que se produce. | Guardar el material y el estado del trabajo en `main` del repositorio `pablohernareypro/misuniverse24nov`. Comprobar el cambio remoto y compartir el enlace en el chat. |
 | Norbey representa a Miss Colombia. Hay un presentador distinto. | Norbey cuenta lo que pasó en primera persona. El presentador presenta y anuncia el resultado. |
 | La comunidad elige entre diez misses. Países Bajos, también nombrada Netherlands, completa la lista. | Las diez tienen espacio para que el público las conozca. La ganadora depende de los votos reales. |
 | Cinco TikToks por día. Éxito el martes si hay al menos 100.000 vistas en cada pieza y gente apoyando a todas. | El mínimo agregado es de 2.000.000 de vistas y se requiere que 20 de 20 superen o igualen el umbral. Comprobar cada publicación y cada banda. Documentar la hora del corte. |
@@ -33,5 +34,6 @@ Los Issues conservan el estado vigente. Este orden sirve para arrancar el trabaj
 | Fecha local | Avance que se puede comprobar | Próximo paso |
 |---|---|---|
 | 2026-11-21 | Se verificaron las interacciones de dos referencias públicas de TikTok y se transcribió la muestra de doce publicaciones. Quedaron el plan de 20 piezas, el guion 01, dos registros CSV, el procedimiento de NotebookLM, las skills de trabajo y los cinco Issues. | Conseguir dos o tres intercambios, averiguar quién puede enviar selfie, voz o texto y acordar el cierre de votos. |
+| 2026-11-21 | Al retomar desde este chat, las 20 piezas figuraban como planificadas y ninguna tenía URL en el [registro de publicaciones](seguimiento/publicaciones.csv). Pablo confirmó cómo quiere conservar los próximos avances. | Elegir entre dos o tres intercambios reales de WhatsApp para completar los segundos 6 a 11 del primer TikTok. Basta con la frase, la réplica y la banda de quien habla. |
 
 En las siguientes sesiones, añade una fila por avance relevante. Incluye el archivo, Issue, URL de publicación o commit que lo demuestra. Actualiza el primer párrafo cuando cambie la fase.
