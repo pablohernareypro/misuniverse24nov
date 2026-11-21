@@ -2,9 +2,11 @@
 
 Este proyecto se lleva en español con Pablo. El destino de trabajo es `pablohernareypro/misuniverse24nov`. El repositorio es público.
 
+Pablo Hernández dirige este proyecto. Norbey Rodríguez representa a Miss Colombia. Cualquier nuevo acceso a NotebookLM requiere autorización expresa de Pablo para ese paso. Un permiso para actualizar GitHub cubre el repositorio. Consulta la [entrega vigente](GEMINI.md) para distinguir los acuerdos, las propuestas y las preguntas pendientes.
+
 ## Al abrir una sesión
 
-1. Lee [README.md](README.md) y [CONTINUIDAD.md](CONTINUIDAD.md). Contrasta el último avance con los commits recientes y los [Issues abiertos](https://github.com/pablohernareypro/misuniverse24nov/issues).
+1. Lee [GEMINI.md](GEMINI.md), [README.md](README.md) y [CONTINUIDAD.md](CONTINUIDAD.md). Contrasta el último avance con los commits recientes y los [Issues abiertos](https://github.com/pablohernareypro/misuniverse24nov/issues).
 2. Identifica qué puede hacerse con el material de hoy. Consulta [el catálogo](recursos/catalogo.md) y abre solo la skill o el recurso que haga falta.
 3. Conserva las decisiones aprobadas. Si un dato cambia una decisión de publicación y no consta, formula una pregunta concreta a Pablo y avanza en lo que sí tenga evidencia.
 

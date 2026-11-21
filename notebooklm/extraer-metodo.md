@@ -1,5 +1,7 @@
 # Cómo extraer el método de Víctor Heras en NotebookLM
 
+**Propuesta para revisión.** Pablo dirige la planificación y autoriza expresamente cada nuevo acceso al cuaderno. Antes de ejecutar estas consultas, acordar con él el alcance y seguir el [punto de relevo](../GEMINI.md).
+
 **Para Pablo y Norbey · Noviembre de 2026**
 
 El archivo que le devolverás a ChatGPT se llamará **Cerebro_Heras.md**. Debe permitir que alguien que nunca abrió tu cuaderno tome una decisión de guion, entienda qué evidencia la sostiene y encuentre el video original. Este documento contiene las consultas para construirlo. Las enseñanzas de tu cuaderno aparecerán al ejecutarlas allí.

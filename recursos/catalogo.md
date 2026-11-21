@@ -5,8 +5,8 @@ Actualizado el 21 de noviembre de 2026. La columna de estado indica con qué pue
 | Recurso | Estado | Uso y ubicación |
 |---|---|---|
 | Objetivos, decisiones aprobadas y pendientes | Registrados por Pablo | [Punto de relevo](../CONTINUIDAD.md). |
-| Método de extracción de Víctor Heras | Cinco consultas listas | [Guía de NotebookLM](../notebooklm/extraer-metodo.md). El cuaderno completo lo tiene Pablo. |
-| Cerebro_Heras.md | Pendiente de la primera extracción verificable | Destino previsto: `notebooklm/Cerebro_Heras.md`. Cada ficha debe llevar un ejemplo y una referencia legible fuera del cuaderno. |
+| Método de extracción de Víctor Heras | Cinco consultas propuestas, pendientes de revisión con Pablo | [Guía de NotebookLM](../notebooklm/extraer-metodo.md). El acceso al cuaderno requiere su autorización expresa. |
+| Cerebro_Heras.md | Borrador de cuatro criterios, pendiente de revisión | [Consultar el borrador existente](../notebooklm/Cerebro_Heras.md) y [el alcance que se debe acordar con Pablo](../GEMINI.md). |
 | Comentarios, vistas y estilos de dos publicaciones de Norbey | Referencias comprobadas y vistas de captura | [Línea base con enlaces a ambas publicaciones](../seguimiento/linea-base.md). |
 | Calendario oficial del certamen | Verificado | [Miss Universe Puerto Rico](https://muniversepr.com/noticias/miss-universe-anuncia-la-fecha-oficial-de-la-edicion-75-en-puerto-rico/). |
 | Retratos IA, WhatsApp y voces | Pablo confirma su existencia. Falta incorporar la selección para producción. | [Inventario por banda](../produccion/inventario.md). Guardar nombre de versión y ubicación autorizada de cada recurso. |

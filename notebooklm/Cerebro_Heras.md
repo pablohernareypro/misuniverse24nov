@@ -1,5 +1,7 @@
 # Cerebro de dirección de viralidad · Víctor Heras Media
 
+**Estado del 21 de noviembre de 2026.** Borrador de cuatro criterios pendiente de revisión por Pablo. El uso de estas fichas se acordará en el [plan de dirección del proyecto](../GEMINI.md).
+
 Este documento traduce las enseñanzas comprobadas del cuaderno de Pablo en decisiones de producción. Sirve para que un editor elija, cuestione y pruebe una idea, y para que otra herramienta pueda reconstruir el motivo de su decisión. La palabra final en la campaña la tiene Pablo.
 
 ## Primeras decisiones verificadas
